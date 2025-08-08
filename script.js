@@ -1,4 +1,4 @@
-/**
+ /**
  * SoftsMac Landing Page JavaScript
  * Handles particle animations, countdown functionality, and smooth interactions
  */
